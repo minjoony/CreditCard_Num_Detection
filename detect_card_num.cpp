@@ -16,9 +16,6 @@ using namespace std;
 
 int kernel_size = 28;
 
-
-
-
 int main()
 {
 	// 원본 사진 경로
